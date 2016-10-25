@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ class\ Button\ will\ show\ a\ button\ "Start"\ on\ the\ screen.\ Once\ the\ button\ is\n\ hitted,\ the\ animation\ will\ start.\ \n\ \n\ @author\ (Chen\ Shi)\ \n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Button()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ getStarted()
+comment4.params=startedOrNot
+comment4.target=void\ setStarted(boolean)
+numComments=5

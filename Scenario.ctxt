@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Scenario
+comment0.text=\n\ class\ Senario\ will\ set\ up\ the\ curtains\ and\ show\ an\ animation\ when\n\ "Start"\ button\ is\ clicked.\n\ \n\ @author\ (Chen\ Shi)\ \n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Scenario()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=Button\ getButton()
+comment4.params=
+comment4.target=BackCurtain\ getBackCurtain()
+comment5.params=
+comment5.target=FrontCurtain\ getFrontCurtain()
+comment6.params=
+comment6.target=Grid\ getGrid()
+numComments=7
