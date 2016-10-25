@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Grid
+comment1.params=sz\ world
+comment1.target=Grid(int,\ MyWorld)
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=
+comment3.target=void\ flipRandomly()
+comment4.params=
+comment4.target=void\ expandGrid()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
